@@ -12,7 +12,7 @@ integrity and reasonable availability, enhancing the efficiency of space utiliza
 
 
 
-Key Features:
+## Key Features:
 • Scheduling Integration: Integrate with academic schedules to manage classroom and
 venue bookings efficiently.
 
@@ -27,7 +27,7 @@ and venues.
 • Notification System: Send notifications and reminders for upcoming bookings and
 maintenance updates.
 
-UI Development:
+## UI Development:
 • User Dashboard: Interface for viewing available classrooms and venues, booking
 spaces, and reporting issues.
 
@@ -43,7 +43,7 @@ and venues.
 • Admin Dashboard: Interface for administrators to manage bookings, view maintenance
 requests, and update schedules.
 
-API Development:
+## API Development:
 • Booking API: Manage room and venue bookings, including creating, updating, and
 cancelling reservations.
 
@@ -59,7 +59,7 @@ updates.
 • User Management API: Manage user authentication, authorization, and profiles.
 
 
-Database Management:
+## Database Management:
 • Booking Database: Store details of all room and venue bookings, including user
 information, dates, times, and room features.
 
@@ -70,7 +70,7 @@ and resolution logs.
 
 • User Database: Store user profiles, booking histories, and access levels.
 
-Infrastructure:
+## Infrastructure:
 • Hosting and Scaling: Ensure the server and database infrastructure can handle
 concurrent booking requests and maintenance reports.
 
