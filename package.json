@@ -1,0 +1,20 @@
+{
+  "name": "Class-Venue-Management",
+  "version": "1.0.0",
+  "description": "Venue Management",
+  "main": "index.js", 
+  "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LunarrPhase/Infrastructure-Classroom-Venue-Management---Smart-Campus.git"
+
+  },
+  "keywords": [],
+  "author": {},
+  "license": "ISC",
+  "dependencies": {
+        "express":"^4.19.2",
+        "jsdom": "^24.0.0"
+
+  }
+
+}
