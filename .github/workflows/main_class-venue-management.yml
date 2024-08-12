@@ -1,7 +1,7 @@
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 
-name: Build and deploy Node.js app to Azure Web App - Class-Venue-Management
+name: Build and deploy Node.js app to Azure Web App - class-venue-management
 
 on:
   push:
@@ -57,15 +57,15 @@ jobs:
       - name: Login to Azure
         uses: azure/login@v2
         with:
-          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_BD6E16EB5247411796C7AF2ADAA0DABF }}
-          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_4C4D127477064D1DADAEFDA6A6A93319 }}
-          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_F0035F04FCEB4A60BE71FCB5D2DBCF9B }}
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_C08EA6E84DAF44E4A556C29D0999BD60 }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_763DB607B9114F958885E4C9BA0762B4 }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_847C673E4A524E38906844777ADC15DE }}
 
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v3
         with:
-          app-name: 'Class-Venue-Management'
+          app-name: 'class-venue-management'
           slot-name: 'Production'
           package: .
           
