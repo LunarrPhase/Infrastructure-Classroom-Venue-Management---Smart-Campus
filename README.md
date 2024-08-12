@@ -1,5 +1,7 @@
 # Infrastructure-Classroom-Venue-Management---Smart-Campus
 
+Remember to pull before you push to main!
+
 "The Classroom/Venue Management App aims to streamline the process of managing classroom
 and venue assignments, bookings, and maintenance on campus. It features scheduling
 integration with academic calendars, a room booking system, and a maintenance issue reporting
@@ -8,7 +10,7 @@ and updates. The implementation of push notifications is a stretch goal. The app
 user-friendly dashboard for booking and reporting issues, an admin interface for managing
 schedules and maintenance, and robust APIs for handling bookings, schedules, maintenance,
 notifications, and user management. Secure and scalable infrastructure will ensure data
-integrity and reasonable availability, enhancing the efficiency of space utilization on campus." 
+integrity and reasonable availability, enhancing the efficiency of space utilization on campus." ~brief given
 
 
 
