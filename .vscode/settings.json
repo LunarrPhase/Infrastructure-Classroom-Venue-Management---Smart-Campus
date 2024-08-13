@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "undefined/subscriptions/45f770bc-1038-4191-baad-00db00972c45/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Class-Venue-Management",
-    "appService.deploySubpath": "."
-}
