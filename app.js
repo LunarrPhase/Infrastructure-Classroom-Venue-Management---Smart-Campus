@@ -7,5 +7,5 @@ app.use(express.static("src"));
 
 app.listen(app.get("port"), function(){
 
-    console.log(`Example app listening at http://localhost:${port}`);
+    console.log("Server started on port "+app.get("port"));
 });
